@@ -132,7 +132,6 @@ a {
 }
 /*CLI*/
 .cli {
-  border: 2px solid black;
   height: 550px;
   padding: 80px 0;
 }
